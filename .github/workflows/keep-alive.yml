@@ -17,10 +17,10 @@
 ###
 name: Keep Repo Alive
 
-on:
+#on:
   # Once daily at 00:00 UTC.
-  schedule:
-    - cron: '0 0 * * *'
+#  schedule:
+#    - cron: '0 0 * * *'
 
 jobs:
 
